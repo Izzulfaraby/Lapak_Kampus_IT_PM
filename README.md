@@ -27,9 +27,9 @@ kampusmart/
 
 ## Instalasi
 
-### XAMPP
-1. Install XAMPP, jalankan **Apache** dan **MySQL** dari XAMPP Control Panel.
-2. Salin folder `kampusmart` ke `C:\xampp\htdocs\kampusmart\`.
+### WAMPP
+1. Install WAMPP.
+2. Salin folder `kampusmart` ke `C:\Wampp\www\kampusmart\`.
 3. Buka `http://localhost/phpmyadmin` → tab **Import** → pilih `database/kampusmart.sql` → **Go**.
    (File SQL sudah berisi `CREATE DATABASE kampusmart`, jadi tidak perlu membuat database manual.)
 4. Cek `config/database.php` (default: host `localhost`, user `root`, password kosong).
