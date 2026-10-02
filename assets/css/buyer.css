@@ -1,0 +1,7 @@
+/* Halaman pembeli & beranda */
+.hero{background:linear-gradient(120deg,#1D4ED8,#0EA5E9);color:#fff;border-radius:16px;padding:48px 32px;margin-bottom:8px}
+.hero h1{font-size:34px;max-width:560px}.hero p{max-width:520px;opacity:.95}
+.hero .btn{background:#fff;color:var(--primary);border-color:#fff}
+.trust{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.trust .card{margin:0;text-align:center}.trust .ico{font-size:30px}
+.cta{background:#EFF6FF;border:1px solid #BFDBFE;border-radius:16px;padding:28px;text-align:center;margin-top:26px}
+@media(max-width:768px){.hero{padding:28px 18px}.hero h1{font-size:24px}.trust{grid-template-columns:1fr}}

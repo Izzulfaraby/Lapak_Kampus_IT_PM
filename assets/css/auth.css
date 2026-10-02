@@ -1,0 +1,5 @@
+/* Halaman login & register */
+body.layout-auth{background:linear-gradient(180deg,#EFF6FF,#F8FAFC);display:flex;align-items:center;justify-content:center;min-height:100vh;padding:20px}
+.auth-card{background:#fff;border-radius:16px;box-shadow:0 10px 40px rgba(37,99,235,.12);padding:32px;width:100%;max-width:420px}
+.auth-card .brand{text-align:center;margin-bottom:18px}.auth-card .brand .logo{font-size:24px}
+.auth-card h1{font-size:20px;text-align:center}.auth-foot{text-align:center;margin-top:14px;font-size:14px}
